@@ -13,7 +13,7 @@ Welcome to **Floppy Bird**, a simple and addictive 2D game where you guide a bir
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/floppy-bird.git
+    https://github.com/AbrarUr-Rahman/Floppy-Bird.git
     ```
 
 2. Open the project in Unity.
